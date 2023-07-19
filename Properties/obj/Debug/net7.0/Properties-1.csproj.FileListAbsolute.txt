@@ -1,0 +1,15 @@
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Properties\bin\Debug\net7.0\Properties-1.exe
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Properties\bin\Debug\net7.0\Properties-1.deps.json
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Properties\bin\Debug\net7.0\Properties-1.runtimeconfig.json
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Properties\bin\Debug\net7.0\Properties-1.dll
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Properties\bin\Debug\net7.0\Properties-1.pdb
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Properties\obj\Debug\net7.0\Properties-1.csproj.AssemblyReference.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Properties\obj\Debug\net7.0\Properties-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Properties\obj\Debug\net7.0\Properties-1.AssemblyInfoInputs.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Properties\obj\Debug\net7.0\Properties-1.AssemblyInfo.cs
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Properties\obj\Debug\net7.0\Properties-1.csproj.CoreCompileInputs.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Properties\obj\Debug\net7.0\Properties-1.dll
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Properties\obj\Debug\net7.0\refint\Properties-1.dll
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Properties\obj\Debug\net7.0\Properties-1.pdb
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Properties\obj\Debug\net7.0\Properties-1.genruntimeconfig.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Properties\obj\Debug\net7.0\ref\Properties-1.dll

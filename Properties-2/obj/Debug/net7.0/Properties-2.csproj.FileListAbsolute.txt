@@ -1,0 +1,15 @@
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Properties-2\bin\Debug\net7.0\Properties-2.exe
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Properties-2\bin\Debug\net7.0\Properties-2.deps.json
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Properties-2\bin\Debug\net7.0\Properties-2.runtimeconfig.json
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Properties-2\bin\Debug\net7.0\Properties-2.dll
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Properties-2\bin\Debug\net7.0\Properties-2.pdb
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Properties-2\obj\Debug\net7.0\Properties-2.csproj.AssemblyReference.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Properties-2\obj\Debug\net7.0\Properties-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Properties-2\obj\Debug\net7.0\Properties-2.AssemblyInfoInputs.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Properties-2\obj\Debug\net7.0\Properties-2.AssemblyInfo.cs
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Properties-2\obj\Debug\net7.0\Properties-2.csproj.CoreCompileInputs.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Properties-2\obj\Debug\net7.0\Properties-2.dll
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Properties-2\obj\Debug\net7.0\refint\Properties-2.dll
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Properties-2\obj\Debug\net7.0\Properties-2.pdb
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Properties-2\obj\Debug\net7.0\Properties-2.genruntimeconfig.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Properties-2\obj\Debug\net7.0\ref\Properties-2.dll

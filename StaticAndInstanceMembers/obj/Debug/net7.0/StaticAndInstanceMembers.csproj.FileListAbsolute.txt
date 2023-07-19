@@ -1,0 +1,15 @@
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\StaticAndInstanceMembers\bin\Debug\net7.0\StaticAndInstanceMembers.exe
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\StaticAndInstanceMembers\bin\Debug\net7.0\StaticAndInstanceMembers.deps.json
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\StaticAndInstanceMembers\bin\Debug\net7.0\StaticAndInstanceMembers.runtimeconfig.json
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\StaticAndInstanceMembers\bin\Debug\net7.0\StaticAndInstanceMembers.dll
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\StaticAndInstanceMembers\bin\Debug\net7.0\StaticAndInstanceMembers.pdb
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\StaticAndInstanceMembers\obj\Debug\net7.0\StaticAndInstanceMembers.csproj.AssemblyReference.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\StaticAndInstanceMembers\obj\Debug\net7.0\StaticAndInstanceMembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\StaticAndInstanceMembers\obj\Debug\net7.0\StaticAndInstanceMembers.AssemblyInfoInputs.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\StaticAndInstanceMembers\obj\Debug\net7.0\StaticAndInstanceMembers.AssemblyInfo.cs
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\StaticAndInstanceMembers\obj\Debug\net7.0\StaticAndInstanceMembers.csproj.CoreCompileInputs.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\StaticAndInstanceMembers\obj\Debug\net7.0\StaticAndInstanceMembers.dll
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\StaticAndInstanceMembers\obj\Debug\net7.0\refint\StaticAndInstanceMembers.dll
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\StaticAndInstanceMembers\obj\Debug\net7.0\StaticAndInstanceMembers.pdb
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\StaticAndInstanceMembers\obj\Debug\net7.0\StaticAndInstanceMembers.genruntimeconfig.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\StaticAndInstanceMembers\obj\Debug\net7.0\ref\StaticAndInstanceMembers.dll

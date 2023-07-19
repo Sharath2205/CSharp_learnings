@@ -1,0 +1,15 @@
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Classes\obj\Debug\net7.0\Classes.csproj.AssemblyReference.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Classes\obj\Debug\net7.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Classes\obj\Debug\net7.0\Classes.AssemblyInfoInputs.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Classes\obj\Debug\net7.0\Classes.AssemblyInfo.cs
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Classes\obj\Debug\net7.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Classes\bin\Debug\net7.0\Classes.exe
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Classes\bin\Debug\net7.0\Classes.deps.json
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Classes\bin\Debug\net7.0\Classes.runtimeconfig.json
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Classes\bin\Debug\net7.0\Classes.dll
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Classes\bin\Debug\net7.0\Classes.pdb
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Classes\obj\Debug\net7.0\Classes.dll
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Classes\obj\Debug\net7.0\refint\Classes.dll
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Classes\obj\Debug\net7.0\Classes.pdb
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Classes\obj\Debug\net7.0\Classes.genruntimeconfig.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Classes\obj\Debug\net7.0\ref\Classes.dll
