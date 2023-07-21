@@ -1,0 +1,15 @@
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AssemblyTwo\bin\Debug\net7.0\AssemblyTwo.exe
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AssemblyTwo\bin\Debug\net7.0\AssemblyTwo.deps.json
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AssemblyTwo\bin\Debug\net7.0\AssemblyTwo.runtimeconfig.json
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AssemblyTwo\bin\Debug\net7.0\AssemblyTwo.dll
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AssemblyTwo\bin\Debug\net7.0\AssemblyTwo.pdb
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AssemblyTwo\obj\Debug\net7.0\AssemblyTwo.csproj.AssemblyReference.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AssemblyTwo\obj\Debug\net7.0\AssemblyTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AssemblyTwo\obj\Debug\net7.0\AssemblyTwo.AssemblyInfoInputs.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AssemblyTwo\obj\Debug\net7.0\AssemblyTwo.AssemblyInfo.cs
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AssemblyTwo\obj\Debug\net7.0\AssemblyTwo.csproj.CoreCompileInputs.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AssemblyTwo\obj\Debug\net7.0\AssemblyTwo.dll
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AssemblyTwo\obj\Debug\net7.0\refint\AssemblyTwo.dll
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AssemblyTwo\obj\Debug\net7.0\AssemblyTwo.pdb
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AssemblyTwo\obj\Debug\net7.0\AssemblyTwo.genruntimeconfig.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AssemblyTwo\obj\Debug\net7.0\ref\AssemblyTwo.dll

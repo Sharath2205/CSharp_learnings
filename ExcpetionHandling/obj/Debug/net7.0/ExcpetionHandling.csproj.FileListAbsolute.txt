@@ -1,0 +1,15 @@
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\ExcpetionHandling\bin\Debug\net7.0\ExcpetionHandling.exe
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\ExcpetionHandling\bin\Debug\net7.0\ExcpetionHandling.deps.json
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\ExcpetionHandling\bin\Debug\net7.0\ExcpetionHandling.runtimeconfig.json
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\ExcpetionHandling\bin\Debug\net7.0\ExcpetionHandling.dll
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\ExcpetionHandling\bin\Debug\net7.0\ExcpetionHandling.pdb
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\ExcpetionHandling\obj\Debug\net7.0\ExcpetionHandling.csproj.AssemblyReference.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\ExcpetionHandling\obj\Debug\net7.0\ExcpetionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\ExcpetionHandling\obj\Debug\net7.0\ExcpetionHandling.AssemblyInfoInputs.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\ExcpetionHandling\obj\Debug\net7.0\ExcpetionHandling.AssemblyInfo.cs
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\ExcpetionHandling\obj\Debug\net7.0\ExcpetionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\ExcpetionHandling\obj\Debug\net7.0\ExcpetionHandling.dll
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\ExcpetionHandling\obj\Debug\net7.0\refint\ExcpetionHandling.dll
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\ExcpetionHandling\obj\Debug\net7.0\ExcpetionHandling.pdb
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\ExcpetionHandling\obj\Debug\net7.0\ExcpetionHandling.genruntimeconfig.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\ExcpetionHandling\obj\Debug\net7.0\ref\ExcpetionHandling.dll

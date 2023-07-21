@@ -1,0 +1,15 @@
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AssemblyOne\bin\Debug\net7.0\AssemblyOne.exe
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AssemblyOne\bin\Debug\net7.0\AssemblyOne.deps.json
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AssemblyOne\bin\Debug\net7.0\AssemblyOne.runtimeconfig.json
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AssemblyOne\bin\Debug\net7.0\AssemblyOne.dll
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AssemblyOne\bin\Debug\net7.0\AssemblyOne.pdb
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AssemblyOne\obj\Debug\net7.0\AssemblyOne.csproj.AssemblyReference.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AssemblyOne\obj\Debug\net7.0\AssemblyOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AssemblyOne\obj\Debug\net7.0\AssemblyOne.AssemblyInfoInputs.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AssemblyOne\obj\Debug\net7.0\AssemblyOne.AssemblyInfo.cs
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AssemblyOne\obj\Debug\net7.0\AssemblyOne.csproj.CoreCompileInputs.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AssemblyOne\obj\Debug\net7.0\AssemblyOne.dll
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AssemblyOne\obj\Debug\net7.0\refint\AssemblyOne.dll
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AssemblyOne\obj\Debug\net7.0\AssemblyOne.pdb
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AssemblyOne\obj\Debug\net7.0\AssemblyOne.genruntimeconfig.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AssemblyOne\obj\Debug\net7.0\ref\AssemblyOne.dll

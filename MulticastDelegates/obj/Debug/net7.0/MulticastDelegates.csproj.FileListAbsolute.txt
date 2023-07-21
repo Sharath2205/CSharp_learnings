@@ -1,0 +1,15 @@
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\MulticastDelegates\bin\Debug\net7.0\MulticastDelegates.exe
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\MulticastDelegates\bin\Debug\net7.0\MulticastDelegates.deps.json
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\MulticastDelegates\bin\Debug\net7.0\MulticastDelegates.runtimeconfig.json
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\MulticastDelegates\bin\Debug\net7.0\MulticastDelegates.dll
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\MulticastDelegates\bin\Debug\net7.0\MulticastDelegates.pdb
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\MulticastDelegates\obj\Debug\net7.0\MulticastDelegates.csproj.AssemblyReference.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\MulticastDelegates\obj\Debug\net7.0\MulticastDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\MulticastDelegates\obj\Debug\net7.0\MulticastDelegates.AssemblyInfoInputs.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\MulticastDelegates\obj\Debug\net7.0\MulticastDelegates.AssemblyInfo.cs
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\MulticastDelegates\obj\Debug\net7.0\MulticastDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\MulticastDelegates\obj\Debug\net7.0\MulticastDelegates.dll
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\MulticastDelegates\obj\Debug\net7.0\refint\MulticastDelegates.dll
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\MulticastDelegates\obj\Debug\net7.0\MulticastDelegates.pdb
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\MulticastDelegates\obj\Debug\net7.0\MulticastDelegates.genruntimeconfig.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\MulticastDelegates\obj\Debug\net7.0\ref\MulticastDelegates.dll

@@ -1,0 +1,15 @@
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AttributesAndReflection\bin\Debug\net7.0\AttributesAndReflection.exe
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AttributesAndReflection\bin\Debug\net7.0\AttributesAndReflection.deps.json
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AttributesAndReflection\bin\Debug\net7.0\AttributesAndReflection.runtimeconfig.json
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AttributesAndReflection\bin\Debug\net7.0\AttributesAndReflection.dll
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AttributesAndReflection\bin\Debug\net7.0\AttributesAndReflection.pdb
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AttributesAndReflection\obj\Debug\net7.0\AttributesAndReflection.csproj.AssemblyReference.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AttributesAndReflection\obj\Debug\net7.0\AttributesAndReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AttributesAndReflection\obj\Debug\net7.0\AttributesAndReflection.AssemblyInfoInputs.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AttributesAndReflection\obj\Debug\net7.0\AttributesAndReflection.AssemblyInfo.cs
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AttributesAndReflection\obj\Debug\net7.0\AttributesAndReflection.csproj.CoreCompileInputs.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AttributesAndReflection\obj\Debug\net7.0\AttributesAndReflection.dll
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AttributesAndReflection\obj\Debug\net7.0\refint\AttributesAndReflection.dll
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AttributesAndReflection\obj\Debug\net7.0\AttributesAndReflection.pdb
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AttributesAndReflection\obj\Debug\net7.0\AttributesAndReflection.genruntimeconfig.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AttributesAndReflection\obj\Debug\net7.0\ref\AttributesAndReflection.dll
