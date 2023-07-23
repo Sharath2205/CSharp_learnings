@@ -1,0 +1,15 @@
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Dictionaries\bin\Debug\net7.0\Dictionaries.exe
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Dictionaries\bin\Debug\net7.0\Dictionaries.deps.json
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Dictionaries\bin\Debug\net7.0\Dictionaries.runtimeconfig.json
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Dictionaries\bin\Debug\net7.0\Dictionaries.dll
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Dictionaries\bin\Debug\net7.0\Dictionaries.pdb
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Dictionaries\obj\Debug\net7.0\Dictionaries.csproj.AssemblyReference.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Dictionaries\obj\Debug\net7.0\Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Dictionaries\obj\Debug\net7.0\Dictionaries.AssemblyInfoInputs.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Dictionaries\obj\Debug\net7.0\Dictionaries.AssemblyInfo.cs
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Dictionaries\obj\Debug\net7.0\Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Dictionaries\obj\Debug\net7.0\Dictionaries.dll
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Dictionaries\obj\Debug\net7.0\refint\Dictionaries.dll
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Dictionaries\obj\Debug\net7.0\Dictionaries.pdb
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Dictionaries\obj\Debug\net7.0\Dictionaries.genruntimeconfig.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\Dictionaries\obj\Debug\net7.0\ref\Dictionaries.dll
