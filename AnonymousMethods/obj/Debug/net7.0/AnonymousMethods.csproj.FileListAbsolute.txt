@@ -1,0 +1,15 @@
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AnonymousMethods\bin\Debug\net7.0\AnonymousMethods.exe
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AnonymousMethods\bin\Debug\net7.0\AnonymousMethods.deps.json
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AnonymousMethods\bin\Debug\net7.0\AnonymousMethods.runtimeconfig.json
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AnonymousMethods\bin\Debug\net7.0\AnonymousMethods.dll
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AnonymousMethods\bin\Debug\net7.0\AnonymousMethods.pdb
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AnonymousMethods\obj\Debug\net7.0\AnonymousMethods.csproj.AssemblyReference.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AnonymousMethods\obj\Debug\net7.0\AnonymousMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AnonymousMethods\obj\Debug\net7.0\AnonymousMethods.AssemblyInfoInputs.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AnonymousMethods\obj\Debug\net7.0\AnonymousMethods.AssemblyInfo.cs
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AnonymousMethods\obj\Debug\net7.0\AnonymousMethods.csproj.CoreCompileInputs.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AnonymousMethods\obj\Debug\net7.0\AnonymousMethods.dll
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AnonymousMethods\obj\Debug\net7.0\refint\AnonymousMethods.dll
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AnonymousMethods\obj\Debug\net7.0\AnonymousMethods.pdb
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AnonymousMethods\obj\Debug\net7.0\AnonymousMethods.genruntimeconfig.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AnonymousMethods\obj\Debug\net7.0\ref\AnonymousMethods.dll
