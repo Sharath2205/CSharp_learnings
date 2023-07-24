@@ -2,7 +2,17 @@
 
 /*
     - Queue is a FIFO (First In First Out) Class Collection present in System.Collections.Generic namespace.
-    - 
+
+    Methods: 
+        - Enqueue() - appends item at the end of the queue.
+        - Dequeue() - Retrives element from the beginning of the queue.
+        - Peek() - Gives the first value of the queue with out removing it.
+        - Contains() - returns true if the value is present in the queue else returns false.
+        - 
+
+    Properties:
+        - Count: returns no of elements in the queue.
+        - 
 */
 
 namespace Queues
@@ -28,6 +38,7 @@ namespace Queues
             queue.Enqueue(customer6);
             queue.Enqueue(customer7);
 
+            queue.IsEmpty();
         }
     }
 
