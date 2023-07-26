@@ -1,0 +1,17 @@
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AsyncAndAwait\bin\Debug\net7.0-windows\AsyncAndAwait.exe
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AsyncAndAwait\bin\Debug\net7.0-windows\AsyncAndAwait.deps.json
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AsyncAndAwait\bin\Debug\net7.0-windows\AsyncAndAwait.runtimeconfig.json
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AsyncAndAwait\bin\Debug\net7.0-windows\AsyncAndAwait.dll
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AsyncAndAwait\bin\Debug\net7.0-windows\AsyncAndAwait.pdb
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AsyncAndAwait\obj\Debug\net7.0-windows\AsyncAndAwait.csproj.AssemblyReference.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AsyncAndAwait\obj\Debug\net7.0-windows\AsyncAndAwait.Form1.resources
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AsyncAndAwait\obj\Debug\net7.0-windows\AsyncAndAwait.csproj.GenerateResource.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AsyncAndAwait\obj\Debug\net7.0-windows\AsyncAndAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AsyncAndAwait\obj\Debug\net7.0-windows\AsyncAndAwait.AssemblyInfoInputs.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AsyncAndAwait\obj\Debug\net7.0-windows\AsyncAndAwait.AssemblyInfo.cs
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AsyncAndAwait\obj\Debug\net7.0-windows\AsyncAndAwait.csproj.CoreCompileInputs.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AsyncAndAwait\obj\Debug\net7.0-windows\AsyncAndAwait.dll
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AsyncAndAwait\obj\Debug\net7.0-windows\refint\AsyncAndAwait.dll
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AsyncAndAwait\obj\Debug\net7.0-windows\AsyncAndAwait.pdb
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AsyncAndAwait\obj\Debug\net7.0-windows\AsyncAndAwait.genruntimeconfig.cache
+C:\Users\Sharath.Chandra\Desktop\C# Learnings\AsyncAndAwait\obj\Debug\net7.0-windows\ref\AsyncAndAwait.dll
